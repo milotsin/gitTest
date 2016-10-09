@@ -1,2 +1,0 @@
-# gitTest
-my test repository
